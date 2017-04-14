@@ -4,6 +4,7 @@ package com.assessment.hcl;
 * Record class represents a Record in a Table with attributes
 * and it is used by Table class to hold this object
 *
+*
 * @author  Lokesh Reddy
 * @version 1.0 
 */
